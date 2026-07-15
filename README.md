@@ -131,13 +131,13 @@ http://127.0.0.1:5000
 
 ## Input
 
-![Input Screenshot](images/input.png)
+![Input Screenshot](images/input.png.jpg)
 
 ---
 
 ## Output
 
-![Output Screenshot](images/output.png)
+![Output Screenshot](images/output.png.jpg)
 
 ---
 
